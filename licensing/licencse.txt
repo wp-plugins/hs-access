@@ -1,0 +1,11 @@
+Copyright: © 2010 Haden Software
+<http://haden.cc/>
+
+Released under the terms of the GNU General Public License.
+<http://www.gnu.org/licenses/> - attached as [gpl.txt].
+
+Credits / Additional Acknowledgments:
+
+* Software designed for WordPress®.
+	- GPL License <http://codex.wordpress.org/GPL>
+	- WordPressÂ® <http://wordpress.org>
