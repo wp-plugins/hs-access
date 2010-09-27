@@ -2,7 +2,7 @@
 
 Contributors: jannesh
 Donate link: http://haden.cc/
-Tags: multi site, member, member blog, subscriber, members only, access plugin
+Tags: hs access, multi site, member, member blog, subscriber, members only, access plugin
 Requires at least: 3.0.0
 Tested up to: 3.0.1
 Stable tag: 0.1.0
