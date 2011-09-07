@@ -4,8 +4,8 @@ Contributors: jannesh
 Donate link: http://haden.cc/
 Tags: hs access, hs-access, multi site, member, member blog, subscriber, members only, plugin restrict access
 Requires at least: 3.0.0
-Tested up to: 3.0.1
-Stable tag: 0.2.0
+Tested up to: 3.2.1
+Stable tag: 0.2.1
 
 Plugin to enable the Super-Admin of Multi-Site instalations to allow selective access to plugins to the authors/admins of member blogs.
 
@@ -37,6 +37,9 @@ The Haden Software blog have a bug tracking feature.  This can be accessed at ht
 
 == Upgrade Notice ==
 
+= 0.2.1 =
+* Update recomended for use with Wordpress 3.1 and later.
+
 = 0.2.0 =
 * Update recomended.
 
@@ -44,6 +47,9 @@ The Haden Software blog have a bug tracking feature.  This can be accessed at ht
 * Bug Fix. Update required.
 
 == Changelog ==
+
+= 0.2.1 =
+* Update: Moved menu page to the Network Admin page.
 
 = 0.2.0 =
 * New Feature: The Plugin Access Settings now have a Grid View. By Popular demand.
