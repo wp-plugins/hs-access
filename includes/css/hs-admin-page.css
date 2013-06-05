@@ -1,0 +1,56 @@
+/*  
+Copyright: © 2013 Haden Concept Consultants <http://haden.cc/>
+
+Released under the terms of the GNU General Public License. You should have received a copy of the
+GNU General Public License, along with this software. In the main directory, see: /licensing/ 
+If not, see: <http://www.gnu.org/licenses/>.
+*/
+
+/**************************************************************************************************/
+/* Common layout styles.													                                  							*/
+/**************************************************************************************************/
+#hsaccess-admin-page-form select	
+{
+	height: 55px;
+}
+
+.hsaccess-admin-page-table *
+{
+  word-wrap: break-word;
+}
+
+.hsaccess-admin-page-table th, .hsaccess-admin-page-table td
+{
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  font-size: 11px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  border-top-color: #dfdfdf;
+  border-right-color-value: #dfdfdf;
+  border-bottom-color: #dfdfdf;
+  border-left-color-value: #dfdfdf;
+  border-left-color-ltr-source: physical;
+  border-left-color-rtl-source: physical;
+  border-right-color-ltr-source: physical;
+  border-right-color-rtl-source: physical;
+}
+
+.hsaccess-admin-page-table th
+{
+  padding:      7px 7px 8px 7px;
+  text-align:   left;
+  line-height:  1.3em;
+  font-weight: bold;
+  text-shadow: 0pt 1px 0pt rgba(255, 255, 255, 0.8);
+}
+
+.hsaccess-admin-page-table thead tr th, .hsaccess-admin-page-table tfoot tr th
+{
+  color: #333333;
+  background-color: #dfdfdf;
+  background-image: url("wp-admin/images/gray-grad.png");
+  background-repeat: repeat-x;
+  background-attachment: scroll;
+  background-position: left top;
+}
