@@ -4,7 +4,7 @@ Copyright: ©2013 Haden Concept Consultants
 Plugin Name: HS Access
 Plugin URI: http://wpplugin.haden.cc/
 Author: Haden Concept Consultants
-Author URI: http://haden.cc/
+Author URI: http://wpplugin.haden.cc/
 Version: 0.2.2
 Network: true
 
