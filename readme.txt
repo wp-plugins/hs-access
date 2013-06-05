@@ -1,11 +1,10 @@
 === HS Access Plugin  ===
 
-Contributors: jannesh
-Donate link: http://haden.cc/
+Contributors: Haden Concept Consultants
 Tags: hs access, hs-access, multi site, member, member blog, subscriber, members only, plugin restrict access
 Requires at least: 3.0.0
 Tested up to: 3.2.1
-Stable tag: 0.2.1
+Stable tag: 0.2.2
 
 Plugin to enable the Super-Admin of Multi-Site instalations to allow selective access to plugins to the authors/admins of member blogs.
 
@@ -25,7 +24,7 @@ access to Plugins. This can be done on a per individual level.
 
 = How do I use this plugin? =
 
-The Haden Software site have step-by-step How-To's.  This How-To for the HS Access plugin can be accessed at http://haden.cc/hs-access/hs-access-how-to.
+The Haden Software site have step-by-step How-To's.  This How-To for the HS Access plugin can be accessed at http://wpplugin.haden.cc/hs-access/hs-access-how-to.
 
 = Where can I get support for this plugin? =
 
@@ -33,9 +32,12 @@ The main support location is the Haden Software blog.
 
 = Something is not working. How do I report the bug? =
 
-The Haden Software blog have a bug tracking feature.  This can be accessed at http://haden.cc/tickets.
+The Haden Software blog have a bug tracking feature.  This can be accessed at http://wpplugin.haden.cc/tickets.
 
 == Upgrade Notice ==
+
+= 0.2.2 =
+* Update recomended to access new support site.
 
 = 0.2.1 =
 * Update recomended for use with Wordpress 3.1 and later.
@@ -47,6 +49,9 @@ The Haden Software blog have a bug tracking feature.  This can be accessed at ht
 * Bug Fix. Update required.
 
 == Changelog ==
+
+= 0.2.2 =
+* Update: Changed Plugin Support Site URL.
 
 = 0.2.1 =
 * Update: Moved menu page to the Network Admin page.
